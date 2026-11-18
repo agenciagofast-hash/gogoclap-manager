@@ -1,0 +1,18 @@
+# Material pesado: vive fuera de git (Drive o disco)
+_MATERIAL/
+*.mp4
+*.mov
+*.wav
+*.aif
+*.aiff
+*.mp3
+*.flac
+*.psd
+*.ai
+*.zip
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+.claude/settings.local.json
