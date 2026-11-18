@@ -1,19 +1,18 @@
 # GOGOCLAP · Oficina de management
 
-Repo **privado** de GoFast para la carrera de **GOGOCLAP** (Rodrigo "Gogo" Castillo, Santa Fe): rap, beatbox y loops en vivo, la banda Grooving Fresh.Co y el disco "Sabe las vece".
+Repo **público** de GoFast (desde el 18/11/2026, por decisión de Alexis) para la carrera de **GOGOCLAP** (Rodrigo "Gogo" Castillo, Santa Fe): rap, beatbox y loops en vivo, la banda Grooving Fresh.Co y el disco "Sabe las vece".
 
 Funciona como un **equipo de IA**: manager, productor, booking, contenido y prensa con fondos. Lo opera Alexis con Claude Code o Codex, y Gogo aprueba.
 
 ## Cómo seguir en otra PC
 
-1. Aceptá la invitación al repo en GitHub con la otra cuenta.
-2. Cloná el repo:
+1. Cloná el repo. Como es público, no hace falta iniciar sesión para descargarlo:
    ```bash
    git clone https://github.com/agenciagofast-hash/gogoclap-manager.git
    ```
-3. Abrí la carpeta con **Claude Code** (o Codex, que lee `AGENTS.md`).
-4. Primer pedido: *"leé ESTADO.md y armá el plan de la semana"*. También podés usar `/plan-semanal`.
-5. Al terminar cada sesión, guardá y subí los cambios:
+2. Abrí la carpeta con **Claude Code** (o Codex, que lee `AGENTS.md`).
+3. Primer pedido: *"leé ESTADO.md y armá el plan de la semana"*. También podés usar `/plan-semanal`.
+4. Al terminar cada sesión, guardá y subí los cambios. **Subir sí pide iniciar sesión** en GitHub con `agenciagofast-hash` o con una cuenta invitada como colaboradora:
    ```bash
    git add -A
    git commit -m "qué cambió"
@@ -42,7 +41,7 @@ ESTADO.md                    ← dónde estamos y próximo paso (leer primero)
 AGENTS.md / CLAUDE.md        ← instrucciones del equipo de IA
 docs/
   01-perfil-artista.md       ← identidad, formatos, bio, posicionamiento
-  02-respuestas-brief.md     ← respuestas de Gogo al cuestionario (privado)
+  02-respuestas-brief.md     ← respuestas de Gogo al cuestionario
   03-auditoria.md            ← diagnóstico al 18/11/2026
   04-plan-de-carrera.md      ← plan de 90 días y de 12 meses
   05-oportunidades.md        ← convocatorias, fondos, Cosquín, plataformas

@@ -31,7 +31,7 @@ Las tareas que se repiten tienen skill en `.claude/skills/`: `plan-semanal`, `la
 - **No inventes cifras.** Cada número lleva fecha y fuente. Separá dato verificado, percepción de Gogo e hipótesis. No prometas crecimiento.
 - **La voz de Gogo:** directa, con humor y sarcasmo, filosófica sin solemnidad, hip hop de toda la vida. Frase propia: "sabe las vece". Evita lo banal. Su música manda sobre cualquier audio de tendencia.
 - **Redacción:** español rioplatense. Explicá acción y resultado. Prohibido "no es X, es Y".
-- **Datos privados:** el repo es privado. Cachés, presupuesto, horarios y datos de familia no salen de acá. No guardes claves, CBU, CUIT ni datos de compradores.
+- **El repo es PÚBLICO** desde el 18/11/2026, por decisión de Alexis: cualquiera puede leerlo. Lo que ya está publicado (cachés, presupuesto, horarios) lo decidió él. **No agregues más datos sensibles:** nada de claves, tokens, CBU, CUIT, DNI, teléfonos o mails personales, ni datos de compradores o de terceros. Si una tarea necesita guardar algo así, dejalo en `_MATERIAL/` (fuera de git) y avisá.
 - **Fechas reales:** antes de recomendar una convocatoria, verificá en la fuente que siga abierta. Los plazos de `docs/05-oportunidades.md` tienen fecha de consulta.
 - **Al cerrar una tarea:** actualizá `ESTADO.md` (qué cambió, próximo paso, bloqueo). Si cambió una métrica o una fecha, actualizá `operacion/`.
 

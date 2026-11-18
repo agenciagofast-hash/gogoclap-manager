@@ -1,6 +1,6 @@
 # Shows, consultas y contactos de booking
 
-Archivo privado: los montos van como total o rango, sin datos de compradores.
+El repo es público: los montos van como total o rango, sin datos de compradores ni contactos personales.
 
 ## Shows realizados
 

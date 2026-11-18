@@ -4,7 +4,7 @@
 - **Respuestas:** Alexis las pegó el 18/11/2026. Las transcribo con las palabras de Gogo y solo limpio enlaces rotos (`[Fresh.Co](http://fresh.co)` → Fresh.Co).
 - **Sin respuesta:** las preguntas que dejó vacías figuran como *(sin respuesta)*. Lo que falta se resume en `operacion/pendientes.md`.
 
-> Documento privado: incluye cachés, presupuesto, horarios y datos de familia.
+> Incluye cachés, presupuesto, horarios y datos de familia. El repo es público por decisión de Alexis del 18/11/2026.
 
 ## 1. Objetivos y expectativas
 

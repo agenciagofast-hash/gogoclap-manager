@@ -72,4 +72,4 @@ En el inventario general de GoFast, Gogo Clap figura como "propuestas, creativos
 - Se juntó todo lo trabajado en la PC: 11 sesiones de Codex y 2 de Claude Code.
 - Se integraron las respuestas de Gogo y se actualizaron las métricas públicas y las oportunidades.
 - Se armó el equipo de IA (agentes y skills) y el plan de carrera.
-- Alexis eligió repo **privado** en GitHub, con invitación a la otra cuenta.
+- El repo se creó privado en GitHub. Ese mismo día Alexis pidió hacerlo **público**, con todo el contenido, para entrar desde otra PC sin iniciar sesión. Se le avisó que contiene cachés, presupuesto y horarios de Gogo, y lo confirmó.
